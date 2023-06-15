@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jusjag
+- 🌱 I’m currently learning data analysis and all around it: SQL, Excel, PowerQuery, Looker, BigQuery, etc
+- 📫 My LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
