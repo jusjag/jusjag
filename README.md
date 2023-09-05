@@ -2,7 +2,7 @@
 - 🌱 On my way to become Data Analyst
 - 📫 My LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
 
-### See my projects
+# My projects:
 
 ## 1. Rowerowy Gdansk (Power Query + Tableau)
 Data cleaning and analysis of public data from bicycle counters located in Gdansk.<br>
