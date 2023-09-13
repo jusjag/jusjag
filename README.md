@@ -1,11 +1,14 @@
 - 👋 Hi, I’m Justyna Jagielska @jusjag
 - 🏠 I'm from Gdańsk, Poland
-- 🔥 Looking for a first job as data analyst / reporting specialist
-- 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
 
-## About me:<br>
-I love digging in data, searching for solutions, and I don't give up because of a sigle error (or a two-day string of errors either).<br>
-Currently focusing on learning Power BI.
+# 🔥 I'm looking for a job as data analyst / reporting specialist! 🔥
+ 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
+
+## Why should you want me in your team?
+- I'm reliable, motivated and hard working;
+- I'm easy to work with. I'm communicative, helpful and coworkers seem to like me;
+- I always search for solutions and don't give up because of a sigle error (or a two-day string of errors either);
+- I pay attention to detail and make sure the effects of my work are clear, readable and helpful.
 
 # My projects:
 
