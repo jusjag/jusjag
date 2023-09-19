@@ -6,8 +6,8 @@
 
 ## Why should you want me in your team?
 - I'm reliable, motivated and hard working;
-- I'm easy to work with. I'm communicative, helpful and coworkers seem to like me;
-- I always search for solutions and don't give up because of a sigle error (or a two-day string of errors either);
+- I'm communicative and helpful, coworkers appreciate my positive attitude and say I'm good to work with;
+- I'm a problem solver, I always search for solutions and don't give up because of a sigle error (or a two-day string of errors either);
 - I pay attention to detail and make sure the effects of my work are clear, readable and helpful.
 
 # My projects:
