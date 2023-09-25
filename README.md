@@ -26,5 +26,5 @@ My final project for SQL kickstarter course from Code First Girls<br>
 <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">Go to project description</a><br><br>
 <img src="https://raw.githubusercontent.com/jusjag/CodeFirstGirls_Formula1/main/Project_Screenshots/3.2.Subquery2-code-output.jpg" width="600">
 
-# Certifictes:
+# Certificates:
 <a href="https://github.com/jusjag/certificates/blob/main/README.md">See what I've learned.</a>
