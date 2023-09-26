@@ -1,6 +1,6 @@
 Hello there!<br>
 # 🔥 I'm looking for a job as data analyst / reporting specialist! 🔥
-🏠 Location: Gdańsk (Poland), hybrid or full remote<br>
+🏠 Location: Gdańsk (Poland), hybrid or fully remote<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
 
 ## Why should you want me in your team?
