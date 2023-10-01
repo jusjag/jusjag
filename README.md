@@ -25,6 +25,6 @@ My very first project in Power BI, made for data visualization challenge.<br>
 <img src="https://github.com/jusjag/DiM_HR_insights/blob/main/Screenshots/HR_insights_GH.jpg" width="600">
 <br><br>
 ## 3. Formula 1 Project (SQL, MySQL Workbench)
-My final project for SQL kickstarter course from Code First Girls<br>
+My final project for SQL Kkickstarter course from Code First Girls.<br>
 <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">Go to project description</a><br><br>
 <img src="https://raw.githubusercontent.com/jusjag/CodeFirstGirls_Formula1/main/Project_Screenshots/3.2.Subquery2-code-output.jpg" width="600">
