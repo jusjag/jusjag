@@ -2,6 +2,9 @@ Hello there!<br>
 # 🔥 I'm looking for a job as data analyst / reporting specialist! 🔥
 🏠 Location: stationary or hybrid in Gdańsk (Poland) or fully remote<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
+<br><br>
+# I'm certified as an Associate Data Analyst! by DataCamp - #1 Data Analytics Certification by Forbes!<br>
+<br>
 
 # See:
 * [Project list](#see-what-i-can-do)
