@@ -1,10 +1,12 @@
 Hello there!<br>
-# 🔥 I'm looking for a job as data analyst / reporting specialist! 🔥
+# 🔥 Open for work as data analyst / reporting specialist
 🏠 Location: stationary or hybrid in Gdańsk (Poland) or fully remote<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
-<br><br>
-# I'm certified as an Associate Data Analyst! by DataCamp - #1 Data Analytics Certification by Forbes!<br>
 <br>
+## I'm certified as an Associate Data Analyst by DataCamp!
+<b>#1 Data Analytics Certification by Forbes </b><br>
+More details: <a href="https://www.datacamp.com/certificate/DAA0019289008590">see profile at DataCamp</a><br>
+<img src="https://raw.githubusercontent.com/jusjag/certificates/main/Datacamp_DA.png" width="600"><br>
 
 # See:
 * [Project list](#see-what-i-can-do)
@@ -28,6 +30,6 @@ My very first project in Power BI, made for data visualization challenge.<br>
 <img src="https://github.com/jusjag/DiM_HR_insights/blob/main/Screenshots/HR_insights_GH.jpg" width="600">
 <br><br>
 ## 3. Formula 1 Project (SQL, MySQL Workbench)
-My final project for SQL Kkickstarter course from Code First Girls.<br>
+My final project for SQL Kickstarter course from Code First Girls.<br>
 <a href="https://github.com/jusjag/CodeFirstGirls_Formula1">Go to project description</a><br><br>
 <img src="https://raw.githubusercontent.com/jusjag/CodeFirstGirls_Formula1/main/Project_Screenshots/3.2.Subquery2-code-output.jpg" width="600">
