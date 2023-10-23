@@ -5,7 +5,7 @@ Hello there!<br>
 <br>
 ## I'm certified as an Associate Data Analyst by DataCamp!
 <b>#1 Data Analytics Certification by Forbes </b><br>
-More details: <a href="https://www.datacamp.com/certificate/DAA0019289008590">see profile at DataCamp</a><br>
+<i>'To get certified as a Data Analyst Associate, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role.'</i> - see more details <a href="https://www.datacamp.com/certificate/DAA0019289008590">at DataCamp</a>.<br><br>
 <img src="https://raw.githubusercontent.com/jusjag/certificates/main/Datacamp_DA.png" width="600"><br>
 
 # See:
