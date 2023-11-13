@@ -1,4 +1,4 @@
-Hello there!<br>
+On my way to become Data Analyst. See my projects and course certificates!<br>
 # 🔥 Open for work as data analyst / reporting specialist
 🏠 Location: stationary or hybrid in Gdańsk (Poland) or fully remote<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
