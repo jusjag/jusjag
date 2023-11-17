@@ -3,14 +3,14 @@ On my way to become Data Analyst. See my projects and course certificates!<br>
 🏠 Location: stationary or hybrid in Gdańsk (Poland) or fully remote<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
 <br>
+# See:
+* [Project list](#see-what-i-can-do)
+* <a href="https://github.com/jusjag/certificates/blob/main/README.md">My certificates</a><br><br>
 ## I'm certified as an Associate Data Analyst by DataCamp!
 <b>#1 Data Analytics Certification by Forbes </b><br>
 <i>'To get certified as a Data Analyst Associate, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role.'</i> - see more details <a href="https://www.datacamp.com/certificate/DAA0019289008590">at DataCamp</a>.<br><br>
 <img src="https://raw.githubusercontent.com/jusjag/certificates/main/Datacamp_DA.png" width="600"><br>
 
-# See:
-* [Project list](#see-what-i-can-do)
-* <a href="https://github.com/jusjag/certificates/blob/main/README.md">My certificates</a><br><br>
 ## Why should you want me in your team?
 - I'm reliable, motivated and hard working;
 - I'm communicative and helpful, coworkers appreciate my positive attitude and say I'm good to work with;
