@@ -4,8 +4,8 @@ On my way to become Data Analyst. See my projects and course certificates!<br>
 🔗 Find me on LinkedIn: <a href="https://www.linkedin.com/in/justynajagielska/">click here</a>
 <br>
 # See:
-* [Project list](#see-what-i-can-do)
-* <a href="https://github.com/jusjag/certificates/blob/main/README.md">My certificates</a><br><br>
+#### :point_right: [Project list](#see-what-i-can-do)
+#### :point_right: <a href="https://github.com/jusjag/certificates/blob/main/README.md">My skill certificates</a><br><br>
 ## I'm certified as an Associate Data Analyst by DataCamp!
 <b>#1 Data Analytics Certification by Forbes </b><br>
 <i>'To get certified as a Data Analyst Associate, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role.'</i> - see more details <a href="https://www.datacamp.com/certificate/DAA0019289008590">at DataCamp</a>.<br><br>
