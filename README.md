@@ -11,11 +11,9 @@ See my projects and course certificates!<br>
 <i>'To get certified as a Data Analyst Associate, this candidate had to demonstrate that they have the knowledge, skills, and abilities to succeed at the entry level in this role.'</i> - see more details <a href="https://www.datacamp.com/certificate/DAA0019289008590">at DataCamp</a>.<br><br>
 <img src="https://raw.githubusercontent.com/jusjag/certificates/main/Datacamp_DA.png" width="600"><br>
 
-## Why should you want me in your team?
-- I'm reliable, motivated and hard working;
-- I'm communicative and helpful, coworkers appreciate my positive attitude and say I'm good to work with;
+## My special powers:
 - I'm a problem solver, I always search for solutions and don't give up because of a sigle error (or a two-day string of errors either);
-- I pay attention to detail and make sure the effects of my work are clear, readable and helpful.
+- Despite being rather an introvert, I like working with people, and people seem to like working with me too :)<br><br>
 
 # See what I can do:
 
